@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<center>Centered text</center>
+<div align="center">
+  my text here.
+</div>
 
 <!--
 **AdamMillsy/AdamMillsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
