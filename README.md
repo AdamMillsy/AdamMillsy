@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **ROBLOX projects**
 
-- 🌱 I’m currently learning **automatic deployment and University courses**
-
-- 📫 How to reach me **AdamMillsy on Discord**
+- 📫 Reach me at: **AdamMillsy on Discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
