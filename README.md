@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Adam</h1>
 <h3 align="center">I'm a Computer Science student at Lancaster University and ROBLOX developer.</h3>
 
-- 🔭 I’m currently working on **Inputter**, a cross-platform ROBLOX input manager
+- 🔭 I’m currently working on **[Inputter](https://github.com/AdamMillsy/Inputter)**, a cross-platform ROBLOX input manager
 
 - 📫 Reach me at: **AdamMillsy on Discord**
 
