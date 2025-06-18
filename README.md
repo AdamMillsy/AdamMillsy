@@ -4,7 +4,7 @@
 Some of my projects include:
 - 🔭 **[Inputter](https://github.com/AdamMillsy/Inputter)**, a cross-platform ROBLOX input manager
 - ⚽ **[Rebound](https://www.roblox.com/games/15298297809/STYLES-REBOUND)**, a ROBLOX sports game akin to Lúcioball, this was developed by myself and lxhop, maintenance is currently managed by [MisFits Gaming](https://misfitsgaming.gg/).
-- 🕵️ **A secret project** Something I can't discuss, but you'll see it soon!
+- 🕵️ **A secret project**, something I can't discuss, but you'll see it soon!
 
 You can reach me at:
 👾 **AdamMillsy on Discord**
@@ -13,7 +13,6 @@ You can reach me at:
 <p align="left">
 <a href="https://twitter.com/adam_millsy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adam_millsy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/adam-d-mills" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam-d-mills" height="30" width="40" /></a>
-<a href="https://instagram.com/adammillsy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adammillsy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
