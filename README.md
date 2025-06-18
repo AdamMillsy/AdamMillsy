@@ -1,9 +1,13 @@
-<h1 align="center">Hi, I'm Adam</h1>
-<h3 align="center">I'm a Computer Science student at Lancaster University and ROBLOX developer.</h3>
+<h1 align="center">Adam Mills</h1>
+<h3 align="center">I'm a Computer Science Graduate from Lancaster University and ROBLOX developer. </h3>
 
-- 🔭 I’m currently working on **[Inputter](https://github.com/AdamMillsy/Inputter)**, a cross-platform ROBLOX input manager
+Some of my projects include:
+- 🔭 **[Inputter](https://github.com/AdamMillsy/Inputter)**, a cross-platform ROBLOX input manager
+- ⚽ **[Rebound](https://www.roblox.com/games/15298297809/STYLES-REBOUND)**, a ROBLOX sports game akin to Lúcioball, this was developed by myself and lxhop, maintenance is currently managed by [MisFits Gaming](https://misfitsgaming.gg/).
+- 🕵️ **A secret project** Something I can't discuss, but you'll see it soon!
 
-- 📫 Reach me at: **AdamMillsy on Discord**
+You can reach me at:
+👾 **AdamMillsy on Discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
